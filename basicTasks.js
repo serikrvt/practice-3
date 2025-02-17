@@ -67,7 +67,9 @@ const reduceArr=arr11.reduce((acc,curr)=>acc+curr,0)
 
 
 //  Задача 6.2:  Найди максимальное число в массиве `[12, 45, 7, 98, 23]`.  
-// const arr = [12, 45, 7, 98, 23];
+const arr0 = [12, 45, 7, 98, 23];
+const maxArr=Math.max(...arr0)
+
 
 
 
